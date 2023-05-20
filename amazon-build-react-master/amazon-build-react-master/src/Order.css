@@ -1,0 +1,21 @@
+.order {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  position: relative;
+  width: 100%;
+  min-width: 450px;
+}
+.order__container > hr {
+  color: lightgray;
+}
+.order__id {
+  padding: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.order__price {
+  text-align: right;
+  padding: 10px 10px 0;
+}
